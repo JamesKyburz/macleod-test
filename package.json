@@ -1,0 +1,14 @@
+{
+  "name": "mono-repo",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jameskyburz/macleod-test.git"
+  },
+  "author": "James Kyburz <james.kyburz@gmail.com>",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/jameskyburz/macleod-test/issues"
+  },
+  "homepage": "https://github.com/jameskyburz/macleod-test#readme",
+  "version": "1.0.0"
+}
